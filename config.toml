@@ -1,3 +1,4 @@
 baseURL = ""
 languageCode = "es"
 title = "My New Hugo Site"
+theme = "cms-base"
